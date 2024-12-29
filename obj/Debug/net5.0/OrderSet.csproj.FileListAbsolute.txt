@@ -1,0 +1,15 @@
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.exe
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.deps.json
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.runtimeconfig.json
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.runtimeconfig.dev.json
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.dll
+C:\Users\maxon\source\repos\OrderSet\bin\Debug\net5.0\OrderSet.pdb
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.AssemblyInfo.cs
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.csproj.CoreCompileInputs.cache
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.dll
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\refint\OrderSet.dll
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.pdb
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\OrderSet.genruntimeconfig.cache
+C:\Users\maxon\source\repos\OrderSet\obj\Debug\net5.0\ref\OrderSet.dll
